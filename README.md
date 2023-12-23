@@ -4,6 +4,9 @@
 The cost of flight tickets is subject to fluctuations due to various factors such as flight timing, duration, and destination. In this project, historical data of flights will be collected and machine learning algorithms will be applied to develop a predictive model. However, determining the optimal time for purchasing flight tickets from a customer's perspective is difficult as they have limited information about future price changes. The main objective of this research is to use historical data to identify patterns in flight pricing in India, including the specific times of the day or month when prices are expected to be highest. The project's scope can be expanded to various routes within the Indian Domestic Airline market to help customers save significantly on flight ticket purchases.
 
 
+**Data source: Kaggle**
+
+
 **Dataset Collection:**
   
 The data set of flight fare is in two Excel files: 1. Training 
